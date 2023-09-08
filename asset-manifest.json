@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ccdc283.css",
+    "main.js": "/static/js/main.de3db511.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/ciel_quebecois.png": "/static/media/ciel_quebecois.08d20a4368222b29a463.png",
+    "index.html": "/index.html",
+    "main.9ccdc283.css.map": "/static/css/main.9ccdc283.css.map",
+    "main.de3db511.js.map": "/static/js/main.de3db511.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ccdc283.css",
+    "static/js/main.de3db511.js"
+  ]
+}
